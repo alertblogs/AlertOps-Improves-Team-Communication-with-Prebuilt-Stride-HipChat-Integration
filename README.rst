@@ -1,40 +1,25 @@
-AlertOps Expert Guidance
+AlertOps Improves Team Communication with Prebuilt Stride (HipChat) Integration
 ========
+Stride (formerly HipChat) is a cloud-based communication tool that helps teams communicate more effectively and stay active in solving problems and resolving incidents. Stride is incredible for spreading information around your teams.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+But, Stride needs a way to collect information from monitoring tools  in order for your teams to pass it around and use the info to get things done.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+AlertOps puts information from your monitoring system into your Stride conversations, and helps you get notifications to the people who need to know.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Here’s what you can do with AlertOps and Stride:
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+    Send alerts directly from your monitoring system to your team’s Stride channel. This automatically starts the Stride conversation flow for an incident.
+    Automatically check the on-call schedule, and alert the primary on-call team member through text, voice, or email. If the primary on-call team member doesn’t take the assignment, AlertOps will send an alert to the next person in the on-call schedule. AlertOps will send a notification to each team member on the on-call schedule until one of them accepts the assignment, ensuring that every incident is addressed.
+    Once a team member takes an assignment, automatically update the incident assignment in your service desk to show who got the assignment. Your team members can spend less time managing the service desk and more time fixing problems.
+    Automatically close resolved incidents in your service desk. AlertOps takes care of the service desk incident management so your teams can focus on moving to the next issue.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Connecting AlertOps and Stride creates a stream of conversations, alerts, and monitoring data that keeps your teams on the move. These are just some of the things that AlertOps and Stride can help you do.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+Check out our help center to learn more about integrating AlertOps and Stride.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/think-youre-cut-out-for-hipchat-integration/
 
 Read more:
 ====
